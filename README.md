@@ -1,7 +1,7 @@
 ## Hi, I am Jad Nasser and welcome to my github account
 
 
-<a href="https://jad-nasser.github.io/jadnasser" aria-label="My Website"><img src="./world-globe-line-icon.svg" width=50 height=50></i></a>
+<a href="https://jad-nasser.github.io/jadnasser" aria-label="My Website"><img src="./svg.svg" width=50 height=50></i></a>
 <span>&nbsp;</span>
 <a href="mailto:jadnasser.official@gmail.com" aria-label="My Email"><img src="./envelope-icon.svg" width=50 height=50></i></a>
 <span>&nbsp;</span>
