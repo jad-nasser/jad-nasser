@@ -1,6 +1,6 @@
 ## Hi, I am Jad Nasser and welcome to my github account page
 
-<strong>Phone: +961 81 747 098</strong>
+<p><strong>Phone: +961 81 747 098</strong></p>
 <a href="https://jad-nasser.github.io/jadnasser" aria-label="My Website"><img src="./world-globe-line-icon.svg" width=50 height=50></a>
 <span>&nbsp;</span>
 <a href="mailto:jadnasser.official@gmail.com" aria-label="My Email"><img src="./envelope-icon.svg" width=75 height=50></a>
