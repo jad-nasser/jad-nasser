@@ -1,4 +1,4 @@
-## Hi, I am Jad Nasser and welcome to my github account page
+# Hi, I am Jad Nasser and welcome to my github account page
 
 <h2>Phone: +961 81 747 098</h2>
 <a href="https://jad-nasser.github.io/jadnasser" aria-label="My Website"><img src="./world-globe-line-icon.svg" width=50 height=50></a>
